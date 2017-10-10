@@ -15,6 +15,8 @@ public class Cell {
 	 * 格子上的数字num
 	 */
 	private int num;
+
+	private int a;
 	
 	
 	
