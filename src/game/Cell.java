@@ -4,19 +4,20 @@ import java.awt.image.BufferedImage;
 
 public class Cell {
 	/**
-	 *¸ñ×ÓµÄÐÐrow
+	 *ï¿½ï¿½ï¿½Óµï¿½ï¿½ï¿½row
 	 */
 	private int row;
 	/**
-	 * ¸ñ×ÓµÄÁÐcol
+	 * ï¿½ï¿½ï¿½Óµï¿½ï¿½ï¿½col
 	 */
 	private int col;
 	/**
-	 * ¸ñ×ÓÉÏµÄÊý×Önum
+	 * ï¿½ï¿½ï¿½ï¿½ï¿½Ïµï¿½ï¿½ï¿½ï¿½ï¿½num
 	 */
 	private int num;
 
 	private int b;
+
 	
 	
 	

@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d26646cb-cd9b-4975-919a-8189a38c73af" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/game/Cell.java" afterPath="$PROJECT_DIR$/src/game/Cell.java" />
     </list>
-    <ignored path="$PROJECT_DIR$/bin/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,33 +18,33 @@
       <file leaf-file-name="Cell.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/game/Cell.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+            <state relative-caret-position="106">
+              <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
               <folding>
-                <marker date="1507701751000" expanded="false" signature="231:236" ph=" { " />
-                <marker date="1507701751000" expanded="false" signature="244:247" ph=" }" />
-                <marker date="1507701751000" expanded="false" signature="378:383" ph=" { " />
-                <marker date="1507701751000" expanded="false" signature="394:397" ph=" }" />
-                <marker date="1507701751000" expanded="false" signature="426:431" ph=" { " />
-                <marker date="1507701751000" expanded="false" signature="446:449" ph=" }" />
-                <marker date="1507701751000" expanded="false" signature="478:483" ph=" { " />
-                <marker date="1507701751000" expanded="false" signature="494:497" ph=" }" />
-                <marker date="1507701751000" expanded="false" signature="526:531" ph=" { " />
-                <marker date="1507701751000" expanded="false" signature="546:549" ph=" }" />
-                <marker date="1507701751000" expanded="false" signature="570:575" ph=" { " />
-                <marker date="1507701751000" expanded="false" signature="586:589" ph=" }" />
-                <marker date="1507701751000" expanded="false" signature="618:623" ph=" { " />
-                <marker date="1507701751000" expanded="false" signature="638:641" ph=" }" />
-                <marker date="1507701751000" expanded="false" signature="666:670" ph=" { " />
-                <marker date="1507701751000" expanded="false" signature="681:684" ph=" }" />
-                <marker date="1507701751000" expanded="false" signature="708:712" ph=" { " />
-                <marker date="1507701751000" expanded="false" signature="723:726" ph=" }" />
-                <marker date="1507701751000" expanded="false" signature="748:752" ph=" { " />
-                <marker date="1507701751000" expanded="false" signature="763:766" ph=" }" />
-                <marker date="1507701751000" expanded="false" signature="790:794" ph=" { " />
-                <marker date="1507701751000" expanded="false" signature="805:808" ph=" }" />
-                <marker date="1507701751000" expanded="false" signature="834:839" ph=" { " />
-                <marker date="1507701751000" expanded="false" signature="866:869" ph=" }" />
+                <marker date="1507702049000" expanded="false" signature="243:248" ph=" { " />
+                <marker date="1507702049000" expanded="false" signature="256:259" ph=" }" />
+                <marker date="1507702049000" expanded="false" signature="390:395" ph=" { " />
+                <marker date="1507702049000" expanded="false" signature="406:409" ph=" }" />
+                <marker date="1507702049000" expanded="false" signature="438:443" ph=" { " />
+                <marker date="1507702049000" expanded="false" signature="458:461" ph=" }" />
+                <marker date="1507702049000" expanded="false" signature="490:495" ph=" { " />
+                <marker date="1507702049000" expanded="false" signature="506:509" ph=" }" />
+                <marker date="1507702049000" expanded="false" signature="538:543" ph=" { " />
+                <marker date="1507702049000" expanded="false" signature="558:561" ph=" }" />
+                <marker date="1507702049000" expanded="false" signature="582:587" ph=" { " />
+                <marker date="1507702049000" expanded="false" signature="598:601" ph=" }" />
+                <marker date="1507702049000" expanded="false" signature="630:635" ph=" { " />
+                <marker date="1507702049000" expanded="false" signature="650:653" ph=" }" />
+                <marker date="1507702049000" expanded="false" signature="678:682" ph=" { " />
+                <marker date="1507702049000" expanded="false" signature="693:696" ph=" }" />
+                <marker date="1507702049000" expanded="false" signature="720:724" ph=" { " />
+                <marker date="1507702049000" expanded="false" signature="735:738" ph=" }" />
+                <marker date="1507702049000" expanded="false" signature="760:764" ph=" { " />
+                <marker date="1507702049000" expanded="false" signature="775:778" ph=" }" />
+                <marker date="1507702049000" expanded="false" signature="802:806" ph=" { " />
+                <marker date="1507702049000" expanded="false" signature="817:820" ph=" }" />
+                <marker date="1507702049000" expanded="false" signature="846:851" ph=" { " />
+                <marker date="1507702049000" expanded="false" signature="878:881" ph=" }" />
               </folding>
             </state>
           </provider>
@@ -56,15 +55,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GradleLocalSettings">
-    <option name="externalProjectsViewState">
-      <projects_view />
-    </option>
-  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/game/Cell.java" />
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
       </list>
     </option>
   </component>
@@ -139,24 +134,25 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="2048" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="2048" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value=".idea" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
-  </component>
-  <component name="PropertiesComponent">
-    <property name="GoToClass.includeLibraries" value="false" />
-    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
-    <property name="GoToFile.includeJavaFiles" value="false" />
-    <property name="MemberChooser.sorted" value="false" />
-    <property name="MemberChooser.showClasses" value="true" />
-    <property name="MemberChooser.copyJavadoc" value="false" />
-    <property name="settings.editor.selected.configurable" value="com.zeroturnaround.javarebel.idea.plugin.settings.AboutConfigurable" />
-    <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -263,22 +259,13 @@
     <option name="remove_strategy" value="false" />
   </component>
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="d26646cb-cd9b-4975-919a-8189a38c73af" name="Default" comment="" />
-      <created>1507622029731</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1507622029731</updated>
-      <workItem from="1507622044768" duration="594000" />
-    </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="672000" />
+    <option name="totallyTimeSpent" value="124000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="773" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -300,9 +287,9 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32892805" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32892805" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="JRebel remote servers log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
@@ -313,35 +300,6 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
     </layout>
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="processedProjectFiles" value="true" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
-              <option name="COLUMN_ORDER">
-                <list>
-                  <option value="0" />
-                  <option value="1" />
-                  <option value="2" />
-                  <option value="3" />
-                </list>
-              </option>
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -376,43 +334,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/game/Cell.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
-          <folding>
-            <marker date="1507701751000" expanded="false" signature="231:236" ph=" { " />
-            <marker date="1507701751000" expanded="false" signature="244:247" ph=" }" />
-            <marker date="1507701751000" expanded="false" signature="378:383" ph=" { " />
-            <marker date="1507701751000" expanded="false" signature="394:397" ph=" }" />
-            <marker date="1507701751000" expanded="false" signature="426:431" ph=" { " />
-            <marker date="1507701751000" expanded="false" signature="446:449" ph=" }" />
-            <marker date="1507701751000" expanded="false" signature="478:483" ph=" { " />
-            <marker date="1507701751000" expanded="false" signature="494:497" ph=" }" />
-            <marker date="1507701751000" expanded="false" signature="526:531" ph=" { " />
-            <marker date="1507701751000" expanded="false" signature="546:549" ph=" }" />
-            <marker date="1507701751000" expanded="false" signature="570:575" ph=" { " />
-            <marker date="1507701751000" expanded="false" signature="586:589" ph=" }" />
-            <marker date="1507701751000" expanded="false" signature="618:623" ph=" { " />
-            <marker date="1507701751000" expanded="false" signature="638:641" ph=" }" />
-            <marker date="1507701751000" expanded="false" signature="666:670" ph=" { " />
-            <marker date="1507701751000" expanded="false" signature="681:684" ph=" }" />
-            <marker date="1507701751000" expanded="false" signature="708:712" ph=" { " />
-            <marker date="1507701751000" expanded="false" signature="723:726" ph=" }" />
-            <marker date="1507701751000" expanded="false" signature="748:752" ph=" { " />
-            <marker date="1507701751000" expanded="false" signature="763:766" ph=" }" />
-            <marker date="1507701751000" expanded="false" signature="790:794" ph=" { " />
-            <marker date="1507701751000" expanded="false" signature="805:808" ph=" }" />
-            <marker date="1507701751000" expanded="false" signature="834:839" ph=" { " />
-            <marker date="1507701751000" expanded="false" signature="866:869" ph=" }" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.classpath">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/game/Cell.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding>
+            <marker date="1507702049000" expanded="false" signature="243:248" ph=" { " />
+            <marker date="1507702049000" expanded="false" signature="256:259" ph=" }" />
+            <marker date="1507702049000" expanded="false" signature="390:395" ph=" { " />
+            <marker date="1507702049000" expanded="false" signature="406:409" ph=" }" />
+            <marker date="1507702049000" expanded="false" signature="438:443" ph=" { " />
+            <marker date="1507702049000" expanded="false" signature="458:461" ph=" }" />
+            <marker date="1507702049000" expanded="false" signature="490:495" ph=" { " />
+            <marker date="1507702049000" expanded="false" signature="506:509" ph=" }" />
+            <marker date="1507702049000" expanded="false" signature="538:543" ph=" { " />
+            <marker date="1507702049000" expanded="false" signature="558:561" ph=" }" />
+            <marker date="1507702049000" expanded="false" signature="582:587" ph=" { " />
+            <marker date="1507702049000" expanded="false" signature="598:601" ph=" }" />
+            <marker date="1507702049000" expanded="false" signature="630:635" ph=" { " />
+            <marker date="1507702049000" expanded="false" signature="650:653" ph=" }" />
+            <marker date="1507702049000" expanded="false" signature="678:682" ph=" { " />
+            <marker date="1507702049000" expanded="false" signature="693:696" ph=" }" />
+            <marker date="1507702049000" expanded="false" signature="720:724" ph=" { " />
+            <marker date="1507702049000" expanded="false" signature="735:738" ph=" }" />
+            <marker date="1507702049000" expanded="false" signature="760:764" ph=" { " />
+            <marker date="1507702049000" expanded="false" signature="775:778" ph=" }" />
+            <marker date="1507702049000" expanded="false" signature="802:806" ph=" { " />
+            <marker date="1507702049000" expanded="false" signature="817:820" ph=" }" />
+            <marker date="1507702049000" expanded="false" signature="846:851" ph=" { " />
+            <marker date="1507702049000" expanded="false" signature="878:881" ph=" }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3559">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
