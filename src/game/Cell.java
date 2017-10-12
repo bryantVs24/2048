@@ -16,7 +16,9 @@ public class Cell {
 	 */
 	private int num;
 
-	private int c;
+
+	private int d;
+
 
 	
 	
